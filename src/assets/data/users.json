@@ -1,0 +1,91 @@
+{
+	"data": {
+		"students": [{
+			"id": 1,
+			"title": "Basant gupta",
+			"image": "../assets/image/dashboard/children.png",
+			"details": "Class 1 A"
+
+		},
+    {
+			"id": 2,
+			"title": "Amol thite",
+			"image": "../assets/image/dashboard/children.png",
+			"details": "Class 1 A"
+
+		},
+    {
+			"id": 3,
+			"title": "Sachin sam",
+			"image": "../assets/image/dashboard/children.png",
+			"details": "Class 1 A"
+
+		},
+    {
+			"id": 4,
+			"title": "Rahul dev",
+			"image": "../assets/image/dashboard/children.png",
+			"details": "Class 1 A"
+
+		},
+    {
+			"id": 5,
+			"title": "Srini raj",
+			"image": "../assets/image/dashboard/children.png",
+			"details": "Class 1 A"
+
+		},
+    {
+			"id": 6,
+			"title": "Vijay sali",
+			"image": "../assets/image/dashboard/children.png",
+			"details": "Class 1 A"
+
+		},
+    {
+			"id": 7,
+			"title": "Naresh Jadhav",
+			"image": "../assets/image/dashboard/children.png",
+			"details": "Class 1 A"
+
+		},
+    {
+			"id": 8,
+			"title": "Sada more",
+			"image": "../assets/image/dashboard/children.png",
+			"details": "Class 1 A"
+
+		}
+  ],
+		"teachers": [{
+			"id": 2,
+			"title": "Rekha sali",
+			"image": "../assets/image/dashboard/teachers.png",
+			"page": "teachers"
+
+		},
+    {
+			"id": 2,
+			"title": "Jeni john",
+			"image": "../assets/image/dashboard/teachers.png",
+			"page": "teachers"
+
+		},
+    {
+			"id": 2,
+			"title": "Aditya tawre",
+			"image": "../assets/image/dashboard/teachers.png",
+			"page": "teachers"
+
+		},
+    {
+			"id": 2,
+			"title": "Gauri Sone",
+			"image": "../assets/image/dashboard/teachers.png",
+			"page": "teachers"
+
+		}
+
+  ]
+	}
+}

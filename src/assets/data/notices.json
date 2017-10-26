@@ -1,0 +1,29 @@
+{
+	"data":[{
+		 "id":1,
+		 "title":"Teachers day celebration",
+		 "description":"Due to teacher's day at 5 th sept, we have planned,teacher's day celebration in school. ",
+		 "class":"1",
+		 "ndate":"5 sept 2017",
+		 "division":"A"
+		
+		},
+		{
+		 "id":2,
+		 "title":"Tommorow will be holiday",
+		 "description":"Due to Maharashtra Din tomorrow will be holiday",
+		 "class":"1",
+		 "ndate":"30 Apr 2017",
+		 "division":"B"
+		
+		},
+		{
+		 "id":3,
+		 "title":"Tommorow will be Parent Meeting",
+		 "description":"We have organise Monthly parent meeting at 4pm tomorrow, Please Attend. ",
+		 "class":"1",
+		 "ndate":"6 mar 2017",
+		 "division":"6 th"
+		
+		}]
+}

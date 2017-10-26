@@ -1,0 +1,53 @@
+{
+	"data": {
+		"students": [{
+			"id": 1,
+			"title": "Students",
+			"image": "../assets/image/dashboard/children.png",
+			"page": "students"
+
+		}],
+		"teachers": [{
+			"id": 2,
+			"title": "Teachers",
+			"image": "../assets/image/dashboard/teachers.png",
+			"page": "teachers"
+
+		}],
+		"schedule": [{
+			"id": 3,
+			"title": "Schedule",
+			"image": "../assets/image/dashboard/schedule.png",
+			"page": "schedule"
+
+		}],
+		"facilities": [{
+			"id": 4,
+			"title": "Facilities",
+			"image": "../assets/image/dashboard/facilities.png",
+			"page": "facilities"
+
+		}],
+		"homework": [{
+			"id": 5,
+			"title": "Homework",
+			"image": "../assets/image/dashboard/homework.png",
+			"page": "homework"
+
+		}],
+		"events": [{
+			"id": 6,
+			"title": "events",
+			"image": "../assets/image/dashboard/media.png",
+			"page": "events"
+
+		}],
+		"media": [{
+			"id": 7,
+			"title": "Media",
+			"image": "../assets/image/dashboard/media.png",
+			"page": "media"
+
+		}]
+	}
+}
